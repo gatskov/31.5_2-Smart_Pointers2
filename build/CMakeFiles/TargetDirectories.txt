@@ -1,0 +1,3 @@
+D:/VSCode/SmartPointers2/build/CMakeFiles/SmartPointers2.dir
+D:/VSCode/SmartPointers2/build/CMakeFiles/edit_cache.dir
+D:/VSCode/SmartPointers2/build/CMakeFiles/rebuild_cache.dir

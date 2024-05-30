@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/VSCode/SmartPointers2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SmartPointers2.dir/includes_CXX.rsp -g -o CMakeFiles\\SmartPointers2.dir\\src\\SharedToyPtr.cpp.obj -c D:\\VSCode\\SmartPointers2\\src\\SharedToyPtr.cpp",
+  "file": "D:/VSCode/SmartPointers2/src/SharedToyPtr.cpp",
+  "output": "CMakeFiles/SmartPointers2.dir/src/SharedToyPtr.cpp.obj"
+},
+{
+  "directory": "D:/VSCode/SmartPointers2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SmartPointers2.dir/includes_CXX.rsp -g -o CMakeFiles\\SmartPointers2.dir\\src\\Toy.cpp.obj -c D:\\VSCode\\SmartPointers2\\src\\Toy.cpp",
+  "file": "D:/VSCode/SmartPointers2/src/Toy.cpp",
+  "output": "CMakeFiles/SmartPointers2.dir/src/Toy.cpp.obj"
+},
+{
+  "directory": "D:/VSCode/SmartPointers2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SmartPointers2.dir/includes_CXX.rsp -g -o CMakeFiles\\SmartPointers2.dir\\src\\checkBlock.cpp.obj -c D:\\VSCode\\SmartPointers2\\src\\checkBlock.cpp",
+  "file": "D:/VSCode/SmartPointers2/src/checkBlock.cpp",
+  "output": "CMakeFiles/SmartPointers2.dir/src/checkBlock.cpp.obj"
+},
+{
+  "directory": "D:/VSCode/SmartPointers2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SmartPointers2.dir/includes_CXX.rsp -g -o CMakeFiles\\SmartPointers2.dir\\src\\main.cpp.obj -c D:\\VSCode\\SmartPointers2\\src\\main.cpp",
+  "file": "D:/VSCode/SmartPointers2/src/main.cpp",
+  "output": "CMakeFiles/SmartPointers2.dir/src/main.cpp.obj"
+}
+]
